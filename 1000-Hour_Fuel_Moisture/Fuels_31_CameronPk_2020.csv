@@ -1,0 +1,21 @@
+STID,DATE,FUEL_TYPE,FUEL_VARIATION,PERCENT,NAME,GACC,GROUP,LAT,LON,ELE
+73,6/8/2020,100-Hour,None,8,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,7/20/2020,100-Hour,None,7,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/4/2020,100-Hour,None,7,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/23/2020,100-Hour,None,6,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,6/8/2020,1000-Hour,None,9,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,7/20/2020,1000-Hour,None,8,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/4/2020,1000-Hour,None,8,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/23/2020,1000-Hour,None,8,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,6/8/2020,Bitterbrush,Antelope,155,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,7/20/2020,Bitterbrush,Antelope,113,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/4/2020,Bitterbrush,Antelope,70,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/23/2020,Bitterbrush,Antelope,72,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,6/8/2020,Pine,Ponderosa,80,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,7/20/2020,Pine,Ponderosa,122,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/4/2020,Pine,Ponderosa,99,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/23/2020,Pine,Ponderosa,112,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,6/8/2020,Sagebrush,Mountain Big,263,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,7/20/2020,Sagebrush,Mountain Big,98,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/4/2020,Sagebrush,Mountain Big,102,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
+73,8/23/2020,Sagebrush,Mountain Big,64,Beaver Meadows,RMCC,Rocky Mountain National Park,40.376666666666665,-105.5955556,8520
