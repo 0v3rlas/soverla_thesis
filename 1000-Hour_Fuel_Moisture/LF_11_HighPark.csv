@@ -1,0 +1,55 @@
+STID,DATE,FUEL_TYPE,FUEL_VARIATION,PERCENT,NAME,GACC,GROUP,LAT,LON,ELE
+981,4/17/2012,1000-Hour,None,12,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/1/2012,1000-Hour,None,11,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/15/2012,1000-Hour,None,12,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/30/2012,1000-Hour,None,12,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,6/13/2012,1000-Hour,None,9,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/1/2012,1000-Hour,None,6,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/14/2012,1000-Hour,None,17,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/30/2012,1000-Hour,None,15,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,8/14/2012,1000-Hour,None,9,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/1/2012,1000-Hour,None,14,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/16/2012,1000-Hour,None,12,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/30/2012,1000-Hour,None,18,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,10/10/2012,1000-Hour,None,14,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,4/17/2012,Duff,None,10,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/15/2012,Duff,None,10,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,4/17/2012,Pine,Lodgepole,95,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/1/2012,Pine,Lodgepole,68,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/15/2012,Pine,Lodgepole,45,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/30/2012,Pine,Lodgepole,89,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,6/13/2012,Pine,Lodgepole,90,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/1/2012,Pine,Lodgepole,109,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/14/2012,Pine,Lodgepole,111,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/30/2012,Pine,Lodgepole,129,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,8/14/2012,Pine,Lodgepole,124,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/1/2012,Pine,Lodgepole,131,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/16/2012,Pine,Lodgepole,95,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/30/2012,Pine,Lodgepole,112,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,10/10/2012,Pine,Lodgepole,110,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,4/17/2012,Pine,Ponderosa,93,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/1/2012,Pine,Ponderosa,98,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/15/2012,Pine,Ponderosa,78,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/30/2012,Pine,Ponderosa,85,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,6/13/2012,Pine,Ponderosa,82,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/1/2012,Pine,Ponderosa,97,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/14/2012,Pine,Ponderosa,100,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/30/2012,Pine,Ponderosa,147,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,8/14/2012,Pine,Ponderosa,100,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/1/2012,Pine,Ponderosa,126,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/16/2012,Pine,Ponderosa,116,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/30/2012,Pine,Ponderosa,120,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,10/10/2012,Pine,Ponderosa,112,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,4/17/2012,Sagebrush,Mountain Big,124,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/1/2012,Sagebrush,Mountain Big,136,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/15/2012,Sagebrush,Mountain Big,138,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,5/30/2012,Sagebrush,Mountain Big,163,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,6/13/2012,Sagebrush,Mountain Big,159,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/1/2012,Sagebrush,Mountain Big,156,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/14/2012,Sagebrush,Mountain Big,136,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,7/30/2012,Sagebrush,Mountain Big,134,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,8/14/2012,Sagebrush,Mountain Big,103,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/1/2012,Sagebrush,Mountain Big,102,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/16/2012,Sagebrush,Mountain Big,94,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,9/30/2012,Sagebrush,Mountain Big,94,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
+981,10/10/2012,Sagebrush,Mountain Big,84,Red Feather,RMCC,Arapaho and Roosevelt NF,40.7625,-105.6188889,8216
